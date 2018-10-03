@@ -4,7 +4,7 @@
   "description": "A modern take on a classic, MaterialDings recreates the legendary Wingdings font using Material Design guidelines.",
   "main": "index.mjs",
   "author": "Michael Irigoyen <mirigoyen@accusoft.com>",
-  "license": "Unlicensed",
+  "license": "MIT",
   "keywords": [
     "wingdings",
     "material",
@@ -12,7 +12,6 @@
     "font",
     "fontface"
   ],
-  "private": true,
   "scripts": {
     "build": "node --experimental-modules index.mjs"
   },
