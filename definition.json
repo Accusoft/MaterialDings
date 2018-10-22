@@ -221,7 +221,7 @@
         { "type": "rotate", "value": 45 }
       ]
     },
-    "\u00B4": { "icon": "svg:HelpRhombusOutline" },
+    "\u00B4": { "icon": "mdi:HelpRhombusOutline" },
     "\u00B5": { "icon": "mdi:StarCircle" },
     "\u00B6": { "icon": "mdi:StarOutline" },
     "\u00B7": { "icon": "svg:Clock1Outline" },
@@ -321,8 +321,13 @@
         { "type": "rotate", "value": 80 }
       ]
     },
-    "\u00D5": { "icon": "svg:BackspaceOutline" },
-    "\u00D6": { "icon": "svg:BackspaceReverseOutline" },
+    "\u00D5": { "icon": "mdi:BackspaceOutline" },
+    "\u00D6": {
+      "icon": "mdi:BackspaceOutline",
+      "transform": [
+        { "type": "flip", "value": "horizontal" }
+      ]
+    },
     "\u00D7": { "icon": "mdi:ChevronLeft" },
     "\u00D8": { "icon": "mdi:ChevronRight" },
     "\u00D9": { "icon": "mdi:ChevronUp" },

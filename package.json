@@ -16,7 +16,7 @@
     "build": "node --experimental-modules index.mjs"
   },
   "dependencies": {
-    "@mdi/js": "^2.8.94",
+    "@mdi/js": "^3.0.39",
     "svg2ttf": "^4.1.0",
     "svgicons2svgfont": "^9.0.3",
     "svgpath": "^2.2.1",
@@ -24,6 +24,6 @@
     "ttf2woff2": "^2.0.3"
   },
   "devDependencies": {
-    "eslint": "^5.6.1"
+    "eslint": "^5.7.0"
   }
 }
