@@ -9,6 +9,13 @@
     "type": "git",
     "url": "git+https://github.com/Accusoft/MaterialDings.git"
   },
+  "bugs": {
+    "url": "https://github.com/Accusoft/MaterialDings/issues"
+  },
+  "homepage": "https://github.com/Accusoft/MaterialDings#readme",
+  "directories": {
+    "lib": "lib"
+  },
   "keywords": [
     "wingdings",
     "material",
