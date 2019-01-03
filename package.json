@@ -1,10 +1,14 @@
 {
   "name": "materialdings",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A modern take on a classic, MaterialDings recreates the legendary Wingdings font using Material Design guidelines.",
   "main": "index.mjs",
   "author": "Michael Irigoyen <mirigoyen@accusoft.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Accusoft/MaterialDings.git"
+  },
   "keywords": [
     "wingdings",
     "material",
