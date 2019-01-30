@@ -6,11 +6,6 @@ export default {
   // https://github.com/Templarian/MaterialDesign/issues/3236
   svgSnailMail: 'M20,4H4C2.89,4,2,4.89,2,6v12c0,1.105,0.895,2,2,2h16c1.105,0,2-0.895,2-2V6C22,4.89,21.1,4,20,4z M17,17H7v-2h10V17zM17,13H7v-2h10V13z M20,9h-3V6h3V9z',
 
-  // https://github.com/Templarian/MaterialDesign/issues/2012
-  svgMailboxNomail: 'M20,6H4C2.895,6,2,6.895,2,8v12c0,1.105,0.895,2,2,2h16c1.105,0,2-0.895,2-2V8C22,6.895,21.105,6,20,6z M18,18h-4v-6H6v-2h8h4V18z',
-  svgMailboxNomailOpen: 'M20.5,6h-14h-3c-1.105,0-2,0.895-2,2v12c0,1.105,0.895,2,2,2h3h14c1.105,0,2-0.895,2-2V8C22.5,6.895,21.605,6,20.5,6zM6.5,20h-3V8h3v2v2V20z M18.5,18h-4v-6h-6v-2h6h4V18z',
-  svgMailboxOpen: 'M20.5,6h-10v6h-2V4h6V0h-8v6h-3c-1.105,0-2,0.895-2,2v12c0,1.105,0.895,2,2,2h2.969H20.5c1.105,0,2-0.895,2-2V8C22.5,6.895,21.605,6,20.5,6z M3.5,20V8h2.996L6.473,20H3.5z',
-
   /*
    * These icons will not be added to the MDI library
    */

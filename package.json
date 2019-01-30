@@ -1,6 +1,6 @@
 {
   "name": "materialdings",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A modern take on a classic, MaterialDings recreates the legendary Wingdings font using Material Design guidelines.",
   "main": "index.mjs",
   "author": "Michael Irigoyen <mirigoyen@accusoft.com>",
@@ -27,8 +27,8 @@
     "build": "node --experimental-modules index.mjs"
   },
   "devDependencies": {
-    "@mdi/js": "^3.3.92",
-    "eslint": "^5.11.1",
+    "@mdi/js": "^3.4.93",
+    "eslint": "^5.12.1",
     "svg2ttf": "^4.2.0",
     "svgicons2svgfont": "^9.0.4",
     "svgpath": "^2.2.1",
