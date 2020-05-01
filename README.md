@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD033 -->
-
 # MaterialDings
 
 MaterialDings is a modernized replacement for the Wingdings font. Each glyph has been replaced with a simple, modern, and friendly icon in accordance with [Material Design guidelines](https://material.io/design/iconography/system-icons.html).
